@@ -1,0 +1,27 @@
+{
+  "Mac" : [
+    {
+      "name" : "Starscream",
+      "hash" : "c8d81ba69130354ce4cf579cab79e2d3613c5d246166d3959f0ddd52921c7cc6"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "Starscream",
+      "hash" : "e3961a40f64e554841d6512042d4412e40a3e983bb6187fb45fd154f97716617"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "Starscream",
+      "hash" : "6260b24085ab1f680ea9c3f5ef21068bf639e80f7f2a79bed0a189031d0cc709"
+    }
+  ],
+  "commitish" : "3.0.5",
+  "iOS" : [
+    {
+      "name" : "Starscream",
+      "hash" : "9e5e92a0a2ee0ca0fd034a3a300250e1d3e5caaedf4f5047c7ed7df69ce82f94"
+    }
+  ]
+}
